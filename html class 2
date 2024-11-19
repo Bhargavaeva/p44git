@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>image</title>
+    <title>document</title>
 </head>
 <body>
-    <img src="Bella Ciao_julien Mch.jpg">
+    <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem optio dolorum obcaecati similique sint maxime est impedit eveniet accusamus deleniti.
+    </h1>
+
 </body>
 </html> 
