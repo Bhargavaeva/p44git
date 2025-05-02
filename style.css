@@ -1,27 +1,53 @@
- .cont1{
-    width: 250px; ;
-    height: 200px; ;
-    border:20px solid black;
-}
-.cont2{
-    width: 250px; ;
-    height: 200px; ;
-    border:20px solid rgb(155, 13, 13);
-} 
-.cont3{
-    width: 250px; ;
-    height: 200px; ;
-    border:20px solid rgb(155, 13, 13);
-}
-.cont4{
-    width: 250px; ;
-    height: 200px; ;
-    border:20px solid black
-}
-#maindiv{
- display: flex;
-justify-content: space space-evenly;
-}
-.text{
-    color: brown;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
