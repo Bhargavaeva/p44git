@@ -16,10 +16,36 @@ h1{
 h2{
     border: 2px dotted rgb(22, 22, 5);
 }
+#container{
+    color: brown;
+}
 
 
+#container .para{
+    font-size: 50px;
+}
 
+#circle{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    border-radius: 200px;
+    background-color: rgb(19, 121, 6);
+}
+#eva{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
 
+.box1{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+#box{
+    display: flex;
+}
 
 
 
